@@ -1,0 +1,10 @@
+{
+  "description": "A minimalist dark-mode calculator for quick everyday math, with a clear display and easy-to-tap number and operator buttons.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
